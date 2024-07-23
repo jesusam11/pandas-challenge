@@ -126,13 +126,9 @@ This new DataFrame should show school performance based on the "School Type".
 
 ## Source Files
 
-PyBank Files
 - PyCitySchools/PyCitySchools.ipynb - report that includes all requrements in instructions
 - PyCitySchools/Resources/schools_complete.csv - file imported that inlcudes complete school data
--  PyCitySchools/Resources/students_complete.csv - file imported that inlcudes complete students data
 
-PyPoll Files
-- PyPoll/main.py - script that fufills all requrements in instructions
-- PyPoll/analysis/PyPoll.txt - exported file with results of main.py script
-- PyPoll/Resources/election_data.csv - input file utilized by main.py script for analysis
+
+
 
